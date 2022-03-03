@@ -80,3 +80,5 @@ About: We are doing forecasting on India and taking train:test = 7:3.
 ![alt text](https://github.com/shivam-s16/Covid_Third_Wave_Forecasting/blob/main/results/prophet.png)
 
 <h3 align="center">Show some &nbsp;❤️&nbsp; by starring this repo! </h3>
+
+<h3 align="center">Made by Shivam Saxena &nbsp;❤️&nbsp;</h3>

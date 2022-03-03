@@ -51,6 +51,8 @@ Abstract:This notebook is devoted to predicting the COVID-19 spread dynamics in 
 
 - Scikit-Learn
 
+Dataset:https://www.kaggle.com/shiv28/covidowid
+
 About: We are doing forecasting on India and taking train:test = 7:3.
 
 ![alt text](https://github.com/shivam-s16/Covid_Third_Wave_Forecasting/blob/main/results/country.png)

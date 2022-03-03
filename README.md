@@ -13,7 +13,7 @@ region (Asia, Europe, BRICS etc) using Tableau, Power BI or SAP <br>
 - Identify interesting patterns and possible reasons helping Covid-19 spread with
 basic as well as advanced charts 
 
-Abstract:This notebook is devoted to predicting the COVID-19 spread dynamics in the world using neural networks of different structures. We will see how to make predictions based on linear regression, back propagation and long short-term memory neural networks , autoregressive integrated moving average and 
+Abstract:This notebook is devoted to predicting the COVID-19 spread dynamics in the world using neural networks of different structures. We will see how to make predictions based on linear regression, back propagation, long short-term memory neural networks(LSTM) , autoregressive integrated moving average(ARIMA) and prophet.
 
 >Steps or Stages:
 >It consists of four stages:
@@ -28,13 +28,13 @@ Abstract:This notebook is devoted to predicting the COVID-19 spread dynamics in 
 >In first stage we pre-prepare data for analysis:
 -change the data types of columns
 
-- rows filtering
+- Rows Filtering
 
-- elimination of missing data
+- Elimination of Missing Data
 
-- DataSet transformation
+- DataSet Transformation
 
-- data normalization
+- Data Normalization
 
 >Prerequisites:
 - Python

@@ -19,29 +19,43 @@ basic as well as advanced charts
 >Steps or Stages:
 >It consists of four stages:
 -Download and preliminary analysis of data
+
 -Linear Regression
+
 -Back Propagation NN
+
 -Long Short-Term Memory - LSTM
 
 >In first stage we pre-prepare data for analysis:
-
 -change the data types of columns
+
 -rows filtering
+
 -elimination of missing data
+
 -DataSet transformation
+
 -data normalization
 
 >Prerequisites:
 -Python
+
 -Pandas
+
 -Statistics
+
 -NumPy
+
 -Matplotlib
+
 -Keras
+
 -Scikit-Learn
 
 >Results:
+
 >Linear Model:
+
 ![alt text](https://github.com/shivam-s16/Covid_Third_Wave_Forecasting/blob/main/results/linear1.png)
 
 <h3 align="center">Show some &nbsp;❤️&nbsp; by starring this repo! </h3>
